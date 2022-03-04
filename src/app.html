@@ -8,6 +8,15 @@
 		%svelte.head%
 	</head>
 	<body>
-		<div>%svelte.body%</div>
+		<div class="svelte-container">%svelte.body%</div>
 	</body>
 </html>
+
+<style>
+	.svelte-container {
+		height: 90vh;
+		display: grid;
+		justify-content: center;
+		align-items: center;
+	}
+</style>
