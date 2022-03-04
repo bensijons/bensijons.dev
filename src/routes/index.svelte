@@ -1,2 +1,4 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1>Hi</h1>
+<p>My name is Benedikt but you can call me Bensi.</p>
+<p>I work <a href="https://gangverk.is">@Gangverk</a></p>
+<p>For those wondering, the answer is yes, I created this website all by myself</p>
